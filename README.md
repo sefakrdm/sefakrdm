@@ -1,4 +1,4 @@
-#### Hi, I'm Sefa 👋🏻
+### Hi, I'm Sefa 👋🏻
 
 ## Skills
 
