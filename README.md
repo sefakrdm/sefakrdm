@@ -8,9 +8,9 @@
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefakrdm&layout=compact&show_icons=true&theme=highcontrast&hide_border=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefakrdm&layout=compact&show_icons=true&theme=highcontrast&hide_border=true)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sefakrdm&show_icons=true&theme=highcontrast&hide_border=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sefakrdm&show_icons=true&theme=highcontrast&hide_border=true)
 
 
 <!--
