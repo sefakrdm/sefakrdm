@@ -4,8 +4,7 @@
 
 **I'm Sefa** - I'm fullstack developer. I am a passionate and enthusiastic software enthusiast with a strong desire to learn about new technologies. I spend most of my time building projects with new technologies and developing myself in the mobile space. I specialize in technologies such as React.js, React Native, Next.js, Vue.js, Nuxt.js, Bootstrap and Tailwind CSS.
 
-[![SkillIcons]([https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,vite,react,nextjs,redux,vue,electron,discordjs,discord,bots,jquery,html,css,sass,tailwind,bootstrap,materialui,graphql,prisma,mongodb,postgres,supabase,firebase,mysql,cloudflare,postman,powershell,git,npm,linux,ubuntu,kali,vscode,wordpress))](https://skillicons.dev)<br/>
-[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,vite,react,nextjs,redux,vue,electron,discordjs,discord,bots,jquery,html,css,sass,tailwind,bootstrap,materialui,graphql,prisma,mongodb,postgres,supabase,firebase,mysql,cloudflare,postman,powershell,git,npm,linux,ubuntu,kali,vscode,wordpress))](https://skillicons.dev)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
