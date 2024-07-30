@@ -2,6 +2,7 @@
 
 ## Who is this Creative One?
 
+<p>Full Stack Web Developer. I'm a passionate and enthusiastic software enthusiast with a strong desire to learn about new technologies. I spend most of my time creating projects with new technologies and improving myself in the field of web3. I specialise in technologies such as React.js, React Native, Next.js, Vue.js, Nuxt.js, Bootstrap and Tailwind CSS.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
