@@ -1,6 +1,6 @@
 # Hi, I'm Sefa 👋🏻
 
-## Skills
+## Who is this Creative One?
 
 
 <p align="center">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-##
+## 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefakrdm&layout=compact&show_icons=true&theme=highcontrast&hide_border=true)
 &nbsp;&nbsp;&nbsp;&nbsp;
