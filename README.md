@@ -4,7 +4,7 @@
 
 **I'm Sefa** - I'm fullstack developer. I am a passionate and enthusiastic software enthusiast with a strong desire to learn about new technologies. I spend most of my time building projects with new technologies and developing myself in the mobile space. I specialize in technologies such as React.js, React Native, Next.js, Vue.js, Nuxt.js, Bootstrap and Tailwind CSS.
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,vite,react,nextjs,redux,vue,electron,discordjs,discord,bots,jquery,html,css,sass,tailwind,bootstrap,materialui,graphql,prisma,mongodb,postgres,supabase,firebase,mysql,cloudflare,postman,powershell,git,npm,linux,ubuntu,kali,vscode,wordpress)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,vite,react,nextjs,redux,vue,electron,discordjs,discord,bots,jquery,html,css,sass,tailwind,bootstrap,materialui,graphql,prisma,mongodb,postgres,supabase,firebase,mysql,cloudflare,postman,powershell,git,npm,linux,ubuntu,kali,vscode,wordpress)]<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
